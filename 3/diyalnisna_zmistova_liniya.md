@@ -4,10 +4,10 @@
 
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/3/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/3/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/3/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/3/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

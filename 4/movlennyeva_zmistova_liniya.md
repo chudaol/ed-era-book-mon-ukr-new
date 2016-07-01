@@ -4,10 +4,10 @@
 
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/chiannya.html">Читання</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/pisemne_movlennya.html">Писемне мовлення</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/4/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/4/govorinnya.html">Говоріння</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/4/chiannya.html">Читання</a></li>
+<li><a href="http://ukrmon14-new.ed-era.com/4/pisemne_movlennya.html">Писемне мовлення</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
