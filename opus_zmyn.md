@@ -5,7 +5,7 @@
 
 <table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
   <tr border="0" bordercolor="0">
-    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" height="150" src="8.jpg"/></div></td>
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" src="8.jpg" style="width: 220px; height: auto;"></div></td>
     <td valign="bottom" border="0" bordercolor="0"><b>Гайова Любов Андріївна</b>
     <br>
 <i>Вчитель початкових класів, модератор з української мови</i></td>
