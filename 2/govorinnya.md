@@ -12,7 +12,7 @@
     <td width="40%" style="vertical-align:top !important;">
     <p><b>Говоріння</b> (протягом року)<br>
 Розвиток уміння регулювати дихання, силу голосу, темп мовлення.</td>
-    <td width="60%" style="vertical-align:top !important;"> <i><b>Учень (учениця):</b></i><br>
+    <td width="60%" style="vertical-align:top !important;"> <i><b>Учень/учениця:</b></i><br>
 <i>регулює</i> дихання, силу голосу, темп мовлення відповідно до вимог навчальної діяльності;</td>
   </tr>
   <tr>
