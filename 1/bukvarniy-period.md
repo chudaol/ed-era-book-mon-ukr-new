@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
-    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
+    <td width="60%" align="center"><b>Державні вимоги до навчальних досягнень учня/учениці</b></td>
   </tr>
 <tbody>
   <tr>
@@ -45,7 +45,7 @@
     <td width="40%" style="vertical-align:top !important;">
 Функції пунктуаційних знаків.</td>
     <td width="60%" style="vertical-align:top !important;">
-<i>називає і вживає</i> на письмі пунктуаційні знаки: <i>крапку, кому, тире, знаки оклику і питання</i>;</td>
+<i>називає і вживає</i> на письмі пунктуаційні знаки: <i>крапку, кому, знаки оклику і питання</i>;</td>
   </tr>
   <tr>
     <td width="40%" style="vertical-align:top !important;">

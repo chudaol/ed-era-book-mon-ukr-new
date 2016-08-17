@@ -19,9 +19,7 @@
 <ul type="disc">
 <li><a href="http://ukrmon14-new.ed-era.com/4/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14-new.ed-era.com/4/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
 <li><a href="http://ukrmon14-new.ed-era.com/4/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14-new.ed-era.com/4/chiannya.html">Читання</a></li>
 <li><a href="http://ukrmon14-new.ed-era.com/4/pisemne_movlennya.html">Писемне мовлення</a></li>
 </ul>
 <li><a href="http://ukrmon14-new.ed-era.com/4/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>

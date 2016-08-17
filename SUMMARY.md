@@ -1,7 +1,11 @@
 ### Вступ
 
 * [Вступна частина](README.md)
-* [Опис ключових змін  до проекту оновленої  програми](opus_zmyn.md)
+* [Загальнонавчальні уміння і навички](zagalnonavchalny_umynnua_ta_navychky.md)
+  * [1 клас](1_klas.md)
+  * [2 клас](2_klas.md)
+  * [3 клас](3_klas.md)
+  * [4 клас](4_klas.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
    * [Навчання грамоти](navchannya_gramoty.md)
@@ -41,9 +45,7 @@
 
 * [2 клас](2/2_klas.md)
    * [Мовленнєва змістова лінія](2/movlennyeva_zmistova_liniya.md)
-       * [Аудіювання](2/audiyuvannya.md)
        * [Говоріння](2/govorinnya.md)
-       * [Читання](2/chitannya.md)
        * [Писемне мовлення](2/pisemne_movlennya.md)
    * [Мовна змістова лінія](2/movna_zmistova_liniya.md)
        * [Звуки і букви](2/zvuki_i_bukvi.md)
@@ -64,9 +66,7 @@
 
 * [3 клас](3/3_klas.md)
    * [Мовленнєва змістова лінія](3/movlennyeva_zmistova_liniya.md)
-       * [Аудіювання](3/audiyuvannya.md)
        * [Говоріння](3/govorinnya.md)
-       * [Читання](3/chitannya.md)
        * [Писемне мовлення](3/pisemne_movlennya.md)
    * [Мовна змістова лінія](3/movna_zmistova_liniya.md)
        * [Мова і мовлення](3/mova_i_movlennya.md)
@@ -91,9 +91,7 @@
 
 * [4 клас](4/4_klas.md)
    * [Мовленнєва змістова лінія](4/movlennyeva_zmistova_liniya.md)
-       * [Аудіювання](4/audiyuvannya.md)
        * [Говоріння](4/govorinnya.md)
-       * [Читання](4/chiannya.md)
        * [Писемне мовлення](4/pisemne_movlennya.md)
    * [Мовна змістова лінія](4/movna_zmistova_liniya.md)
        * [Мова і мовлення](4/mova_i_movlennya.md)
